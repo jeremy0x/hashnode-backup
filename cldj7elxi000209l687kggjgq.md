@@ -1,5 +1,4 @@
-# Ready, Set, Code!
-I Created a Comprehensive HTML Boilerplate for Optimal SEO Performance
+# Comprehensive HTML Boilerplate for Optimal SEO Performance
 
 Are you tired of starting from scratch every time you need to create a new website? Look no further! I present to you my comprehensive HTML boilerplate that will help you get up and running in no time!
 
