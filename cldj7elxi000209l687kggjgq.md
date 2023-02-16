@@ -2,6 +2,8 @@
 
 Are you tired of starting from scratch every time you need to create a new website? Look no further! I present to you my comprehensive HTML boilerplate that will help you get up and running in no time!
 
+[![boilerplate preview](https://cdn.hashnode.com/res/hashnode/image/upload/v1676545605905/7c986243-80f3-4222-99fe-9827cddee204.png align="center")](https://github.com/jeremy0x/meta-tag-boilerplate)
+
 As a web developer, I have come across several projects that require me to optimize the SEO of a website. One of the ways to do this is by including the right meta tags in a website's HTML code. To make my work easier, I decided to create a boilerplate for the most commonly used meta tags for SEO optimization.
 
 This boilerplate is designed to include all the essential elements you need to get your website off the ground and running smoothly. From character encoding and viewport configuration to meta tags and schema markup, I've got you covered.
@@ -12,4 +14,4 @@ Another handy feature of this boilerplate is the `<link>` tag for alternate lang
 
 Check out the boilerplate on my GitHub repository - [https://github.com/jeremy0x/meta-tag-boilerplate/](https://github.com/jeremy0x/meta-tag-boilerplate/)
 
-So, whether you're a seasoned veteran or just starting out, this boilerplate is a must-have tool for anyone looking to create a website that's optimized for both users and search engines. So go ahead and try it out, and happy coding!
+So, whether you're a seasoned veteran or just starting, this boilerplate is a must-have tool for anyone looking to create a website that's optimized for both users and search engines. So go ahead and try it out, and happy coding!
