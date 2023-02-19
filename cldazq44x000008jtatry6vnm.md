@@ -1,4 +1,4 @@
-# My Experience with creating a visuallywith basic technologies
+# My Experience with creating a visually appealing website with basic technologies
 
 ## Introduction
 
