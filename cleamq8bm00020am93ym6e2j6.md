@@ -1,5 +1,7 @@
 # My Safari Compatibility Experience: Solving Text Gradient and Image Height Issues
 
+### Introduction
+
 As a front-end developer, I've had my fair share of challenges with browser compatibility. One browser, in particular, has given me some unexpected issues Safari. In this post, I want to share two specific issues I encountered while developing websites and the solutions I found to resolve them.
 
 ### The Issue with Text Gradients
@@ -18,7 +20,7 @@ However, when I opened the website on an iPhone's Safari browser, I was in for a
 
 The second issue I encountered was with the height of an image in a slider. I was using `height: 100%;` which worked fine on most devices, but not on iOS. After some thought, I discovered changing the `height` to `auto` could resolve the issue, and it did.
 
-[![Git commit diff showing change from `height: 100%;` to `height: auto;`.](https://cdn.hashnode.com/res/hashnode/image/upload/v1676762168680/914672da-a69a-4142-abfd-e7c82e64f35e.png align="center")](https://github.com/VictorJoey/Sesshin/pull/25/commits/ed9025654b2853911653532a7bac07aec90659e2)
+[![Git commit diff showing change from  to .](https://cdn.hashnode.com/res/hashnode/image/upload/v1676762168680/914672da-a69a-4142-abfd-e7c82e64f35e.png align="center")](https://github.com/VictorJoey/Sesshin/pull/25/commits/ed9025654b2853911653532a7bac07aec90659e2)
 
 The image below shows what I expected to see, and the output on other devices where everything looked perfect.
 
