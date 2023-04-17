@@ -1,4 +1,12 @@
-# Building a Food Recipe App with Tailwind CSS and Vanilla JavaScript
+---
+title: "Food Recipe App with Tailwind and JavaScript"
+datePublished: Tue Feb 28 2023 15:14:20 GMT+0000 (Coordinated Universal Time)
+cuid: cleoe3env000609md3p4o7aks
+slug: food-recipe-app-with-tailwind-and-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677596049147/d2afb981-431c-4b07-bb6e-97079e211c6f.png
+tags: web-development, apis, beginners, frontend-development, fetch-api
+
+---
 
 ### Introduction
 
