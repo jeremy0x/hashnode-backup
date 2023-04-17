@@ -1,4 +1,12 @@
-# Ready-to-Use Meta Tags Boilerplate
+---
+title: "Ready-to-Use Meta Tags Boilerplate"
+datePublished: Mon Jan 30 2023 19:28:32 GMT+0000 (Coordinated Universal Time)
+cuid: cldj7elxi000209l687kggjgq
+slug: meta-tags-boilerplate
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681773693818/f10f9ed0-f98b-4dce-b1b8-8c79fa81cc27.webp
+tags: seo, html5, social-media-marketing, meta-tags
+
+---
 
 ## Introduction
 
